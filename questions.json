@@ -167,154 +167,156 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "question" : "Wo konsi cheez ha jo dhoop m ni shokti?",
 		            "content" : [
-		                "Borrowed time",
-		                "Overtime",
-		                "Standard time",
-		                "Party time"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Which part of the body are you most likely to \"stub\"?",
-		            "content" : [
-		                "Toe",
-		                "Knee",
-		                "Elbow",
-		                "Brain"
+		                "Pasena",
+		                "Hairs",
+		                "Kapry",
+		                "shoes"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Which country is largest by area?",
+		            "question" : "Asa kia h jis ki ank ni magr rota h, pair ni mgr chlta h?",
 		            "content" : [
-		                "UK",
-		                "USA",
-		                "Russia",
-		                "China"
+		                
+		                "Badal",
+		                "Asman",
+						"Bandr",
+		                "kabotar"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "What does the \"F\" stand for in FBI?",
+		            "question" : "Kotry py katora beta baap sy bi ghora?",
 		            "content" : [
-		                "Foreign",
-		                "Federal",
-		                "Flappy",
-		                "Face"
+		                "Mango",
+		                "Coconut",
+		                "Apple",
+		                "Banana"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The US declared war on which country after the bombing of Pearl Harbor?",
-		            "content" : [
-		                "Japan",
-		                "Russia",
-		                "Germany",
-		                "China"
+		            "question" : "wo kia cheez h jsy tor kar har bnda khush hota h?",
+		            "content" : [		                
+		                "Dil",
+		                "Glass",
+		                "kuch bi ni",
+						"Record"
 		            ],
-		            "correct" : 0
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Ap ki wo kon si cheez h jo dosry ap sy zaida istimal krty hn?",
+		            "content" : [
+		                "Ap ka mobile",
+		                "Ap ka naam",
+		                "Ap ka purse",
+		                "Ap k biyc"
+		            ],
+		            "correct" : 1
 		        },
 				{
 				    "correct": 0,
 				    "content": [
-				        "Letter of Credit (L/C)",
-				        "laissezfaire",
-				        "inflation",
+				        "Time",
+				        "Car",
+				        "Biyc",
 				        "None of the above"
 				    ],
-				    "question": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as"
+				    "question": "Wo konsi cheez ha jisy hm waste kr skty hn but buy ni krskty?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Lahore",
+				        
+				        "Islamabad",
+						"Karachi",
+				        "Rawalpindi"
+				    ],
+				    "question": "First Radio Sattion in paksitan?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Punjab University Lahore",
+				        "UET",
+				        "King Edward",
+				        "Allama Iqbal Uni"
+				    ],
+				    "question": "Pakistan ki biggest university kahan or kon si hai?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Urdu",
+				        "Pubjabi",
+				        "Sindi",
+				        "Pashto"
+				    ],
+				    "question": "Pakistan m sb sy zaida boli jany wali language kon si h?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "Visible light",
-				        "Infrared radiation",
-				        "X-rays and gamma rays",
-				        "Ultraviolet radiation"
+				        "10",
+				        "12",
+				        "13",
+				        "14"
 				    ],
-				    "question": "The ozone layer restricts"
+				    "question": "How many times pakistan won international cup of squash"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "misr",
+				        "iraq",
+				        "marakish",
+				        "pakistan"
+				    ],
+				    "question": "Ibn-e-Batota ka talaq kis mulq sy ta?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
-				        "the discoverer of Puerto Rico and Jamaica",
-				        "the first Buddhist pilgrim of India to visit China",
-				        "None of the above"
+				        "Pani",
+				        "Barf",
+				        "choclate",
+				        "kuch bi ni"
 				    ],
-				    "question": "Fa-Hien was"
+				    "question": "Wo kia cheez h jisy hm nigly to bach jai gy agar wo hmy nigly to hm mr jai gy?"
 				},
 				{
-				    "correct": 0,
-				    "content": [
-				        "Harvard",
-				        "University of Washington",
-				        "Yale",
-				        "Oxford"
+				    "correct": 3,
+				    "content": [				        
+				        "Lion",
+				        "Tiger",
+				        "Elephant",
+						"Markor"
 				    ],
-				    "question": "What was the first university in the United States"
+				    "question": "National Animal of Paksitan?"
 				},
 				{
-				    "correct": 0,
+				    "correct": 2,
 				    "content": [
-				        "The amount of energy it takes to move an electron through a potential difference of 1 volt",
-				        "The number of volts it takes to move an electon a meter",
-				        "The number of electrons it takes to kill a human being",
-				        "The flux of current through a surface parallel to a capacitor"
+				        "America",
+				        "china",
+				        "Russia",
+				        "France"
 				    ],
-				    "question": "An electron volt is"
+				    "question": "Duniya ka sub sy bara helicopter kon sa mulk bnata h?"
 				},
 				{
-				    "correct": 0,
+				    "correct": 3,
 				    "content": [
-				        "14th November",
-				        "11th December",
-				        "15th October",
-				        "1st July"
+				        "America",
+				        "China",
+				        "Japan",
+				        "South Korea"
 				    ],
-				    "question": "When is the World's Diabetes Day?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Kelvin",
-				        "Celsius",
-				        "Centigrade",
-				        "Fahrenheit"
-				    ],
-				    "question": "What is the S.I. unit of temperature?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "July 21, 1969",
-				        "July 21, 1970",
-				        "July 21, 1963",
-				        "July 21, 1972"
-				    ],
-				    "question": "When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the density of milk increases",
-				        "the density of milk decreases",
-				        "the density of milk remains unchanged",
-				        "it becomes more viscous"
-				    ],
-				    "question": "When cream is separated from milk"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1999",
-				        "1989",
-				        "1979",
-				        "1969"
-				    ],
-				    "question": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?"
+				    "question": "Samsung kis country ki company h?"
 				}
 		    ]
 		},
