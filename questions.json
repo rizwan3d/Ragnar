@@ -3,782 +3,472 @@
 		{
 		    "questions" : [
                           {
-		            "question" : "Ap k sath wo chalta jaye , koi pakar kr usy dikhaye.",
+		            "question" : "wo konsa saal hai jisko ulta likho ya seedha koi farq nahi parrta",
 		            "content" : [
-		                "Pani",
-		                "Saya",
-		                "Dhop",
-		                "air"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "Wo kia sawal hai jiska jawab ap k ilawa hr koi de skta ha?",
-		            "content" : [
-		                "ap kab so kr uthengy?",
-		                "ap ke age?",
-		                "ap ka name?",
-		                "ap ke salary"
+		                "True",
+		                "False",
+		                "",
+		                ""
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Jab bhi dastrkhuwan bichaya, ik aisa mehman bhi aya, jhoota kr dy har ik khana, mushkil ho jaye usy bhagana",
+		            "question" : "katory pe katora beta baap se bh gora",
 		            "content" : [
-		                "Mouse",
-		                "Billi",
-		                "Bacha",
-		                "Makhi"
+		                "True",
+		                "False",
+		                "",
+		                ""
 		            ],
-		            "correct" : 3
+		            "correct" : 0
 		        },
 		        {
-		            "question" : "Kan pakar kr naak py bethy, naak chiri kehlaye, log usy ankhun py bithayen, apni shan dikhaye",
+		            "question" : "aisy kaam ka naam bataien jis main gahik ko chorrny py paisay milty hain",
 		            "content" : [
-		                "Face mask",
-		                "Hijab",
-		                "Glasses",
-		                "Mustache"
+		                "True",
+		                "False",
+		                "",
+		                ""
 		            ],
-		            "correct" : 2
+		            "correct" : 0
 		        },
 		        {
-		            "question" : "Wo konsi haram chiz ha jisy piny sy sawab milta ha",
+		            "question" : "aiesi chez ka naam btaien jo neem or karely se zyada karwa hoty",
 		            "content" : [
-		                "Khone",
-		                "Ghusa",
-		                "Kangaroo's milk",
-		                "Ansoon"
+		                "True",
+		                "False",
+		                "",
+		                ""
 		            ],
-		            "correct" : 1
+		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is Aurora Borealis commonly known as?",
+		            "question" : "aiesi cheez ka naam bataien jisko hum nigal jaien tou koi masla nahi, lekin agr wo nigal jaye tou hm mar jaien gy",
 		            "content" : [
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "True",
+		                "False",
+		                "",
+		                ""
 		            ],
-		            "correct" : 1
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "aiesy 4 haroof btaien jin m se 1 harf nikal dya jaye tou 11 ho jata ho",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
 		        },
 				{
-				    "correct": 3,
-				    "content": [
-				        "developed the telescope",
-				        "discovered four satellites of Jupiter",
-				        "discovered that the movement of pendulum produces a regular time measurement",
-				        "All of the above"
-				    ],
-				    "question": "Galileo was an Italian astronomer who"
+					"content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "shadi ki ring hmesha ulty hath ki choti ungli pr he q pehnai jati hai"
 				},
 				{
-				    "correct": 3,
-				    "content": [
-				        "Zamin",
-				        "Matti",
-				        "Biwi",
-				        "dosra jota"
-				    ],
-				    "question": "Aik Jota K Sath Hamesha Kia Hta Ha?"
+					"content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo konsi fish hai jo current paida krri hai"
 				},
 				{
-				    "correct": 0,
-				    "content": [
-				        "Time",
-				        "Age",
-				        "Ghada Gari",
-				        "None of the above"
-				    ],
-				    "question": "Woh kya cheez hai jo humesha agy hi jati hai laykin kabhi peechay nahi jati?"
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "Aiesi cheez ka naam btaien jo pury kamry ko bhar skti hai bina jaga ghery"
 				},
 				{
-				    "correct": 1,
-				    "content": [
-				        "Anda",
-				        "Danda",
-				        "Candy",
-				        "Air"
-				    ],
-				    "question": "Wo konsi khanay ki cheez hai jisko kahlay sa pat ni bharta?"
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "soney ki aiesi chez ka naam btaie Jo sunar nahi bnata"
 				},
 				{
-				    "correct": 2,
-				    "content": [
-				        "Broken table",
-				        "Computer Table",
-				        "Math ka Table",
-				        "All of above"
-				    ],
-				    "question": "Woh kya cheez hai jo humesha agy hi jati hai laykin kabhi peechay nahi jati?"
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kya cheez hai jo sb k pass hoti pr kisi m km kisi m zyada"
 				},
 				{
-				    "correct": 3,
-				    "content": [
-				        "Aladdin ka pan ta",
-				        "Ink karab te",
-				        "Color blind",
-				        "Q ka usay black likna ata ta"
-				    ],
-				    "question": "blue Ink walay pen se Asim black likh raha tha. Aisa kaisay mumkin hai? "
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo konsi chezz hai jo dunia m nahi h lekin phr bh hmein nazr ati hai"
 				},
 				{
-				    "correct": 0,
-				    "content": [
-				        "Shopping/Makeup",
-				        "Batay",
-				        "Ghr ka kam",
-				        "Whatsapp pa chat"
-				    ],
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
 				    "question": "Wo konsa kam ha jo krti aurat ha aur thak mard jata hy?"
 				},
 				{
-				    "correct": 0,
-				    "content": [
-				        "0",
-				        "10",
-				        "100",
-				        "1000"
-				    ],
-				    "question": "Agar aik admi ke ganja honay par 10 Rs. kharcha hota ho tou 10 Ganjon par kitna kharcha hoga?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "0",
-				        "30",
-				        "23",
-				        "15"
-				    ],
-				    "question": "Agar aik moor har 2 din bad aik anda day. Aur har 5 din bad aik anda toot jaye tou 15 anday denay mein usay kitnay din lagaen gay?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Age",
-				        "Experience",
-				        "Shadi",
-				        "Work load"
-				    ],
-				    "question": "Wo kya cheez hai jo aik larkay ko Admi aur aik larki ko aurat bana deti hai"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "Wo konsi cheez ha jo dhoop m ni shokti?",
-		            "content" : [
-		                "Pasena",
-		                "Hairs",
-		                "Kapry",
-		                "shoes"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "Asa kia h jis ki ank ni magr rota h, pair ni mgr chlta h?",
-		            "content" : [
-		                
-		                "Badal",
-		                "Asman",
-						"Bandr",
-		                "kabotar"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Kotry py katora beta baap sy bi ghora?",
-		            "content" : [
-		                "Mango",
-		                "Coconut",
-		                "Apple",
-		                "Banana"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "wo kia cheez h jsy tor kar har bnda khush hota h?",
-		            "content" : [		                
-		                "Dil",
-		                "Glass",
-		                "kuch bi ni",
-						"Record"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "Ap ki wo kon si cheez h jo dosry ap sy zaida istimal krty hn?",
-		            "content" : [
-		                "Ap ka mobile",
-		                "Ap ka naam",
-		                "Ap ka purse",
-		                "Ap k biyc"
-		            ],
-		            "correct" : 1
-		        },
-				{
-				    "correct": 0,
-				    "content": [
-				        "Time",
-				        "Car",
-				        "Biyc",
-				        "None of the above"
-				    ],
-				    "question": "Wo konsi cheez ha jisy hm waste kr skty hn but buy ni krskty?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Lahore",
-				        
-				        "Islamabad",
-						"Karachi",
-				        "Rawalpindi"
-				    ],
-				    "question": "First Radio Sattion in paksitan?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Punjab University Lahore",
-				        "UET",
-				        "King Edward",
-				        "Allama Iqbal Uni"
-				    ],
-				    "question": "Pakistan ki biggest university kahan or kon si hai?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Urdu",
-				        "Pubjabi",
-				        "Sindi",
-				        "Pashto"
-				    ],
-				    "question": "Pakistan m sb sy zaida boli jany wali language kon si h?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "10",
-				        "12",
-				        "13",
-				        "14"
-				    ],
-				    "question": "How many times pakistan won international cup of squash"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "misr",
-				        "iraq",
-				        "marakish",
-				        "pakistan"
-				    ],
-				    "question": "Ibn-e-Batota ka talaq kis mulq sy ta?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Pani",
-				        "Barf",
-				        "choclate",
-				        "kuch bi ni"
-				    ],
-				    "question": "Wo kia cheez h jisy hm nigly to bach jai gy agar wo hmy nigly to hm mr jai gy?"
-				},
-				{
-				    "correct": 3,
-				    "content": [				        
-				        "Lion",
-				        "Tiger",
-				        "Elephant",
-						"Markor"
-				    ],
-				    "question": "National Animal of Paksitan?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "America",
-				        "china",
-				        "Russia",
-				        "France"
-				    ],
-				    "question": "Duniya ka sub sy bara helicopter kon sa mulk bnata h?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "America",
-				        "China",
-				        "Japan",
-				        "South Korea"
-				    ],
-				    "question": "Samsung kis country ki company h?"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "An albino gorilla usually has what color fur?",
-		            "content" : [
-		                "Brown",
-		                "Black",
-		                "White",
-		                "Golden"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
-		            "content" : [
-		                "Fingertips",
-		                "Ear",
-		                "Nose",
-		                "Mouth"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "What is commonly known as the \"Emerald City\" in the United States?",
-		            "content" : [
-		                "Palos Verdes, CA",
-		                "Seattle, WA",
-		                "New York, NY",
-		                "Dallas, TX"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "What is the national emblem of Canada?",
-		            "content" : [
-		                "Maple Leaf",
-		                "Brown Bear",
-		                "Maple Syrup",
-		                "Waffle"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "What is the name of the largest freshwater lake in the world?",
-		            "content" : [
-		                "Lake Union",
-		                "Lake Superior",
-		                "Lake Largest",
-		                "Lake Goodwin"
-		            ],
-		            "correct" : 0
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "Birds",
-				        "Cell formation",
-				        "Relation between organisms and their environment",
-				        "Tissues"
-				    ],
-				    "question": "Ecology deals with"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Earth's gravitational pull",
-				        "Moon's gravitational pull",
-				        "Centripetal force due to the earth's rotation",
-				        "Pressure of the atmosphere"
-				    ],
-				    "question": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "was a great Italian painter, sculptor and architect",
-				        "got universal fame form his masterpiece \"Mona lisa\"",
-				        "drew models of organs such as the heart, lungs and womb",
-				        "All of the above"
-				    ],
-				    "question": "Leonardo da Vinci"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "2000",
-				        "2001",
-				        "2002",
-				        "2003"
-				    ],
-				    "question": "Hamid Karzai was chosen president of Afghanistan in"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "New York, USA",
-				        "Haque (Netherlands)",
-				        "Geneva",
-				        "Paris"
-				    ],
-				    "question": "The headquarters of UN are situated at"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "friction between the earth and the bus",
-				        "friction between the passengers and the earth",
-				        "inertia of the passengers",
-				        "inertia of the bus"
-				    ],
-				    "question": "When a moving bus stops suddenly, the passenger are pushed forward because of the"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "1908 at London",
-				        "1980 at Moscow",
-				        "1936 at Berlin",
-				        "1924 at Paris"
-				    ],
-				    "question": "When and where was hockey introduced for women in Olympics?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "increase the alkalinity of the soil",
-				        "increase the acidity of the soil",
-				        "restore nitrates to the soil",
-				        "make the soil more porous"
-				    ],
-				    "question": "Lime is sometimes applied to soil in order to"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "discovered Greenland",
-				        "travelled through China, India and other parts of Asia",
-				        "travelled round the cape of Good Hope",
-				        "discovered Canada"
-				    ],
-				    "question": "Marco Polo"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Guruji",
-				        "Man of Peace",
-				        "Punjab Kesari",
-				        "Mahamana"
-				    ],
-				    "question": "Lal Bahadur Shastri is also known as"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "Which of the following consumer goods is the Gerber Products Co. best known for?",
-		            "content" : [
-		                "Potato chips",
-		                "Fine wines",
-		                "Chewing gum",
-		                "Baby Food"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "In which of these household appliances would you find a lint screen?",
-		            "content" : [
-		                "Dishwasher",
-		                "Microwave oven",
-		                "Clothes dryer",
-		                "Trash compactor"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "What are the three primary colors?",
-		            "content" : [
-		                "Red, green, blue",
-		                "Magenta, pink, cyan",
-		                "Yellow, salmon, brown",
-		                "White, grey, black"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "In aviation, what does UFO stand for?",
-		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "In aviation, what does UFO stand for?",
-		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
-		            ],
-		            "correct" : 3
-		        },
-				{
-				    "correct": 0,
-				    "content": [
-				        "low melting point",
-				        "high resistance",
-				        "high melting point",
-				        "low specific heat"
-				    ],
-				    "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "slowing down of economic activity over a limited period",
-				        "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
-				        "period that results from accumulation of unsold goods, owing to fall in demand",
-				        "All of the above"
-				    ],
-				    "question": "Recession is"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "Nagaland",
-				        "Arunachal Pradesh",
-				        "Assam",
-				        "All of the above"
-				    ],
-				    "question": "Guwahati High Court is the judicature of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Orissa",
-				        "Tamil nadu",
-				        "Andhra Pradesh",
-				        "Kerala"
-				    ],
-				    "question": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the amount of moisture it can hold decreases",
-				        "its absolute humidity decreases",
-				        "its relative humidity remains constant",
-				        "its absolute humidity increases"
-				    ],
-				    "question": "When a given amount of air is cooled"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1789 AD",
-				        "1798 AD",
-				        "1792 AD",
-				        "1729 AD"
-				    ],
-				    "question": "When did France became Republic?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Group A only",
-				        "Group B only",
-				        "Group A and O",
-				        "Group AB only"
-				    ],
-				    "question": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "coins",
-				        "numbers",
-				        "stamps",
-				        "space"
-				    ],
-				    "question": "Numismatics is the study of"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a classed unique society",
-				        "a united society",
-				        "a classed society",
-				        "None of the above"
-				    ],
-				    "question": "Karl Marx's ideology advocated"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Maharashtra",
-				        "Rajasthan",
-				        "Madhya Pradesh",
-				        "Himachal Pradesh"
-				    ],
-				    "question": "Mahabaleshwar is located in"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "What kind of animal traditionally lives in a sty?",
-		            "content" : [
-		                "Cow",
-		                "Pig",
-		                "Fox",
-		                "Teenager"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
-		            "content" : [
-		                "Recycle",
-		                "Rewrap",
-		                "Repossess",
-		                "Retire"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "What is the second most common gas in the air?",
-		            "content" : [
-		                "Nitrogen",
-		                "Oxygen",
-		                "Water",
-		                "Helium"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "Which month has only 28 days (unless it's a leap year)?",
-		            "content" : [
-		                "March",
-		                "September",
-		                "June",
-		                "Feburary"
-		            ],
-		            "correct" : 3
-		        },
-				{
-				    "correct": 1,
-				    "content": [
-				        "give",
-				        "prove",
-				        "both",
-				        "None of the above"
-				    ],
-				    "question": "Pythagoras was first to ____ the universal validity of geometrical theorem."
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "George Washington",
-				        "Bill Clinton",
-				        "George Bush",
-				        "None of the above"
-				    ],
-				    "question": "The American General who led the revolt against the British and declared American independence was"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1986 at Athens",
-				        "1988 at Seoul",
-				        "1924 at St. Louis",
-				        "1908 at London"
-				    ],
-				    "question": "When and where was weightlifting introduced in Olympics?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Junagarh, Gujarat",
-				        "Diphu, Assam",
-				        "Kohima, Nagaland",
-				        "Gangtok, Sikkim"
-				    ],
-				    "question": "Garampani sanctuary is located at"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
-				        "provided facilities to a prisoner to obtain either speedy trial or release in bail",
-				        "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
-				        "All of the above"
-				    ],
-				    "question": "The Habeas Corpus Act of 1679"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "1960",
-				        "1961",
-				        "1962",
-				        "1963"
-				    ],
-				    "question": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?"
-				},
-		        {
-		            "question" : "What are the dimensions of A4 paper?",
-		            "content" : [
-		                "8.3\" x 11.7\"",
-		                "8.5\" x 11\"",
-		                "30cm x 50cm",
-		                "8.5\" x 14\""
-		            ],
-		            "correct" : 0
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "energy",
-				        "speed",
-				        "distance",
-				        "intensity"
-				    ],
-				    "question": "Light Year is related to"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a type of asset that is in cash in the current account of the commercial bank",
-				        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
-				        "either of these",
-				        "None of the above"
-				    ],
-				    "question": "A liquid asset is"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "largest airport",
-				        "highest airport",
-				        "lowest airport",
-				        "busiest airport"
-				    ],
-				    "question": "Lhasa airport at Tibet is the World's"
-				},
-				{
-				    "correct": 2,
 				    "content" : [
-				        "Ethiopia",
-				        "Nigeria",
-				        "Zambia",
-				        "Chad"
-				    ],
-				    "question": "Which of these African countries is situated south of the equator?"
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo oonaa jandar hai jisko apni moat uska waqt or jagga ka sab pehly he pata hoty"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "aiesi chez jo insan k sary paisy kha jati hai or sab ko wo pasand bh h"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "aiesi kia chez hai jiski ankhein nahi mgr rota hai, pair nahi magr chalta hai"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "beta kry tou kaa ko bht bura Lagty or agr damad kry tou bht acha lagty",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Wo kya hai jisko bhook lagy to kha lety hain, payas lagu tou p lety hai or jb sardi lagy you jala skty hai",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "wo kon c cheez hai jo is waqt faien se baien hrkat kr ri h",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "kis waqt bismillah nahi parrhni chaheye",
+					"content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "jhoot bolny pr hmary jism ka konsa hissa garm ho jaty",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kiya h jo na ho tou nikah ni ho skta , or agr ho tou janaza nahi ho skta"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "koi aiesa jawab jo in charoun ka name ho"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "main hr cheez ko ulta kr skta houn , lekin apny ap ko hila bh nahi skta "
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kon c chez hai jisy hum b breakfast se pehly nahi kr skty"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "formula of salt"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo konsa rang hai jisko hum khaty bh hain"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo konsi cheez hai jisko aag py rakho tou seetian marty"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kon c cheez hai jisy hum chu bh nahi skty , utha bh nahi skty lekin torr skty"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "kamar py bitha k jhula jhulai, baha k khoon paseena sab ko khilai"
+				},
+				{
+					"content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "Wo kon c cheez hai jis k phatny ki awaz ni ati"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "wo konsa darakht h jis main lakri nahi hoti",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "wo konsi jagga hai jaha 100 log jaty hai tou 101 wapis aty hai",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "CNG stands for",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "wo kon c cheez hai jo kaan se nikalti h or hm khaty hain",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Wo konsi cheez hai jo saari Zindagi aik he tang (foot) py khari rehti hai",
+		            "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "Na un k kaan hain, na inki zuban hai, mgr shorr machaien khoob , khaien sab ki jan "
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "Wo kon si machli hai Jo na andy deti hai na hi tair skti hai"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "Aiesi kon c cheez hai jay jitna bh kha lo pait na Bharti"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "methane gas formula"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kon c chez hai jo aik waqt main neechy bh ati hai or upper bh jati hai"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kia h jo behra sun skta hai, andha dekh skta ha,or hm khaien tou mar jaie gy"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "insan k jism ka wo konsa hisa hai jo paida hony k baad  milta hai"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo kia hai jo aik andha bh dekh skta hai "
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "Wo kon c chez hai jo dhoop main nahi sukhti"
+				},
+				{
+				    "content" : [
+		                "True",
+		                "False",
+		                "",
+		                ""
+		            ],
+		            "correct" : 0,
+				    "question": "wo konsa janwar h jo pani peety hi mar jata hai "
 				}
 		    ]
 		}
